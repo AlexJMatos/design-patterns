@@ -1,7 +1,7 @@
-package chapter1_strategy_pattern.ducks;
+package strategy.ducks;
 
-import chapter1_strategy_pattern.impl.FlyWithWings;
-import chapter1_strategy_pattern.impl.Quack;
+import strategy.impl.FlyWithWings;
+import strategy.impl.Quack;
 
 public class RedHeadDuck extends Duck {
 

@@ -1,4 +1,4 @@
-package chapter1_strategy_pattern;
+package strategy;
 
 /**
  * The Strategy Pattern defines a family of algorithms,

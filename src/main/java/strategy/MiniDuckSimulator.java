@@ -1,10 +1,10 @@
-package chapter1_strategy_pattern;
+package strategy;
 
-import chapter1_strategy_pattern.ducks.Duck;
-import chapter1_strategy_pattern.ducks.MallardDuck;
-import chapter1_strategy_pattern.ducks.ModelDuck;
-import chapter1_strategy_pattern.ducks.RubberDuck;
-import chapter1_strategy_pattern.impl.FlyRocketPowered;
+import strategy.ducks.Duck;
+import strategy.ducks.MallardDuck;
+import strategy.ducks.ModelDuck;
+import strategy.ducks.RubberDuck;
+import strategy.impl.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

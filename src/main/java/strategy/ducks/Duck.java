@@ -1,7 +1,7 @@
-package chapter1_strategy_pattern.ducks;
+package strategy.ducks;
 
-import chapter1_strategy_pattern.FlyBehavior;
-import chapter1_strategy_pattern.QuackBehavior;
+import strategy.FlyBehavior;
+import strategy.QuackBehavior;
 
 /**
  * Design Principle

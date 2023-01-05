@@ -1,6 +1,6 @@
-package chapter1_strategy_pattern.impl;
+package strategy.impl;
 
-import chapter1_strategy_pattern.QuackBehavior;
+import strategy.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior {
 

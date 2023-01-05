@@ -1,7 +1,7 @@
-package chapter1_strategy_pattern.ducks;
+package strategy.ducks;
 
-import chapter1_strategy_pattern.impl.FlyNoWay;
-import chapter1_strategy_pattern.impl.Squeak;
+import strategy.impl.FlyNoWay;
+import strategy.impl.Squeak;
 
 public class RubberDuck extends Duck {
 
